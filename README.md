@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on [2D RPG Game](https://github.com/JustNDung/2DRPG_By_NDung)
 
-- 🌱 I’m currently learning **Computer Science in UET.**
+- 🌱 I’m currently learning **Computer Science in UET**
+
+- 🤝 I’m looking for help with **game development with Unity Engine., Unreal Engine, Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JustNDung?tab=repositories](https://github.com/JustNDung?tab=repositories)
 
-- 💬 Ask me about **C++, Java, C#, MySQL, Unity Engine.**
+- 💬 Ask me about **C++, Java, C#, MySQL, Unity Engine**
 
 - 📫 How to reach me **nguyenngocdung19122005@gmail.com**
 
