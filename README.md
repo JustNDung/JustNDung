@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Science in UET**
 
-- 🤝 I’m looking for help with **game development with Unity Engine., Unreal Engine, Blender**
+- 🤝 I’m looking for help with **game development with Unity Engine, Unreal Engine, Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JustNDung?tab=repositories](https://github.com/JustNDung?tab=repositories)
 
